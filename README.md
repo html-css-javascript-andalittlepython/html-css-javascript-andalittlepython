@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @html-css-javascript-andalittlepython
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, javascript, and some python
+- I will also make scripts for you guys to copy and paste if you need it.
