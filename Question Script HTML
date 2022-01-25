@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>True or False</title>
+    <!-- Linking the scripts -->
+    <link rel="stylesheet" href="stylesheet.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <!-- Makes the question and choices -->
+    <h1 id="true">Ice pops were invented by an 11-year-old by accident</h1>
+    <button id="fact-button" onclick="fact()">True</button>
+    <button id="wrong-button" onclick="wrong()">False</button>
+  </body>
+</html>
