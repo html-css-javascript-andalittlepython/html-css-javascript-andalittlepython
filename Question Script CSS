@@ -1,0 +1,5 @@
+/* Makes it to when you click the wrong button it stays put */
+#wrong-button {
+  position: absolute;
+  left: 65px;
+}
