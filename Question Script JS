@@ -1,0 +1,11 @@
+// Making it check for what button they press
+// If they press the button the certain thing will happen
+function fact() {
+  document.getElementById("wrong-button").style.display = "none";
+  document.getElementById("true").innerHTML = "Correct";
+}
+
+function wrong() {
+  document.getElementById("fact-button").style.display = "none";
+  document.getElementById("true").innerHTML = "Incorrect";
+}
